@@ -16,4 +16,8 @@ Los posibles desempeños son:
 | Juan Diego Portillo Parada | 1091682379 | Ingeniería de Sistemas
 | Dahiana Bran Agudelo | 1011591073 | Ingeniería de Sistemas
 
+### Entrega 2
+
+- [Link video explicativo](https://www.youtube.com/watch?v=bDnR-P7D15E)
+
 ### Universidad de Antioquia © 2025-2
