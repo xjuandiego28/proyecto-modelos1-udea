@@ -20,4 +20,8 @@ Los posibles desempeños son:
 
 - [Link video explicativo](https://www.youtube.com/watch?v=bDnR-P7D15E)
 
+### Entrega Final
+
+- [Link video explicativo](pendiente)
+
 ### Universidad de Antioquia © 2025-2
